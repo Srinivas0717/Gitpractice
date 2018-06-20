@@ -1,3 +1,7 @@
 this file is added in gittwo node
+<<<<<<< HEAD
 
 agin this is added after adding second by gitoneuser
+=======
+this line is added in gitone after pull it from origin
+>>>>>>> 8c0c22e8986e13756fce71dc123bddaec44c86d6
